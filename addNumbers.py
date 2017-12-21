@@ -1,4 +1,4 @@
-def addNum(x,y)
- return x+y
+def addNum(a,y)
+ return a+y
 
 addNum(2,3)
